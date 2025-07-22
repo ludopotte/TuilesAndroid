@@ -6,3 +6,5 @@ L'Application est disponible en téléchargement au https://github.com/ITVlab/Tv
 
 Tuile pour le Son sur Android TV en écrivant l'adresse suivante : https://31u1.short.gy/sonandroidtv
 
+Tuile pour Cloudfare sur Android TV en écrivant l'adresse suivante : https://31u1.short.gy/cloudfaretv
+
