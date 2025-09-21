@@ -1,14 +1,12 @@
-TV APP REPO
+Tuiles Android et Tuiles Android TV
 
-TV App Repo : Créer des raccourcis "tuiles" pour les APK Android sur Android TV
+TV App Repo : Créer des raccourcis "tuiles" pour les APK Android sur Android TV disponible en téléchargement au https://github.com/ITVlab/TvAppRepo/releases
 
-L'Application est disponible en téléchargement au https://github.com/ITVlab/TvAppRepo/releases
+ATV Launcher disponible au https://atvlauncher.trekgonewild.de
 
-Tuile pour le Son sur Android TV à utiliser dans TV App Repo en écrivant l'adresse suivante : https://31u1.short.gy/sonandroidtv
+Primal TV Launcher disponible au https://a2zapk.io/dload/1314374/
 
-Tuile pour Cloudfare sur Android TV dans TV App Repo en écrivant l'adresse suivante : https://31u1.short.gy/cloudfaretv
 
-Tuile pour Programme Sportif sur Android TV dans TV App Repo en écrivant l'adresse suivante : https://31u1.short.gy/programmetvsports
 
-Tuile pour Dimplay sur Android TV dans TV App Repo en écrivant l'adresse suivante : https://31u1.short.gy/dimplay
+
 
