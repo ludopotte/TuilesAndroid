@@ -8,6 +8,7 @@ Primal TV Launcher disponible en téléchargement au https://a2zapk.io/dload/131
 
 Tuiles à telecharger au https://github.com/ludopotte/TuilesAndroid/releases/tag/tuilestvapprepo
 
+Hebergement de Tuiles disponible au https://postimages.org/
 
 
 
