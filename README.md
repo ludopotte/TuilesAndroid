@@ -1,7 +1,6 @@
 Tuiles Android et Tuiles Android TV
 
-TV App Repo : Créer des raccourcis "tuiles" pour les APK Android sur Android TV 
-disponible en téléchargement au https://github.com/ITVlab/TvAppRepo/releases
+TV App Repo disponible en téléchargement au https://github.com/ITVlab/TvAppRepo/releases
 
 ATV Launcher disponible au https://atvlauncher.trekgonewild.de
 
