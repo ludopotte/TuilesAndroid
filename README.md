@@ -1,4 +1,4 @@
-Tuiles Android et Tuiles Android TV
+Tuiles Android et Android TV
 
 TV App Repo disponible en téléchargement au https://github.com/ITVlab/TvAppRepo/releases
 
